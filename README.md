@@ -1,7 +1,6 @@
 # 🛡️ NIS2Agent – Tietoturva-automaatiobotti NIS2-direktiivin mukaisiin tarkastuksiin (Proof of concept)          
 
-**NIS2Bot** on kevyt, automatisoitu tietoturva-analyysityökalu, joka auttaa organisaatioita tunnistamaan ja analysoimaan järjestelmäraportteja tekoälyn avulla. Se on suunniteltu vastaamaan Suomen uuden tietoturvalain ja EU:n NIS2-direktiivin vaatimuksia.
-
+**NIS2Agent** on kevyt, täysin laajennettavissa, automatisoitu tietoturva-analyysityökalu, joka auttaa organisaatioita tunnistamaan ja analysoimaan järjestelmäraportteja tekoälyn avulla. Se on suunniteltu vastaamaan Suomen uuden tietoturvalain ja EU:n NIS2-direktiivin vaatimuksia.
 ---
 
 ## 🔍 Projektin tarkoitus
